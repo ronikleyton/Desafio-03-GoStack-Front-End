@@ -17,7 +17,7 @@ function App() {
     {
       "title": `Desafio 03 Go Stack Done !!! ${Date.now()}`,
       "url" : "https://github.com/Rocketseat/umbriel",
-      "techs" : "NodeJS, ReactJS, React Native"
+      "techs" : ["NodeJS", "ReactJS","React Native"]
       
     });
     const repository = response.data;
